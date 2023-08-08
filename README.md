@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/mobile-first-reponsive-social-proof-section-Kj-j13qa67)
 - Live Site URL: [GitHub Pages](https://n-d-m.github.io/social-proof-section/)
 
 ## My process
